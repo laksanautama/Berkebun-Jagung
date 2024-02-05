@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <map>
 #include <string>
@@ -34,6 +33,5 @@ int main() {
         cout << "Tidak bisa ditanam" << endl;
     }
 
- return 0;
+    return 0;
 }
-
